@@ -1,0 +1,16 @@
+/* Warna tema desa */
+:root {
+  --primary-color: #3498db;
+  --secondary-color: #2980b9;
+}
+
+.hero-section {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/desa-bg.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.features {
+  background-color: #f8f9fa;
+}
